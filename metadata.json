@@ -1,0 +1,6 @@
+{
+  "name": "TK AI Assistant",
+  "description": "A voice-controlled AI assistant to open apps and call contacts effortlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
